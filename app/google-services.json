@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095974113010",
+    "firebase_url": "https://alertzone-de8de.firebaseio.com",
+    "project_id": "alertzone-de8de",
+    "storage_bucket": "alertzone-de8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095974113010:android:1e28ea10468328ff980a6b",
+        "android_client_info": {
+          "package_name": "com.example.alertzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095974113010-8cimjbn13jm3hfiv6on3cvd18b5ilhkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alertzone",
+            "certificate_hash": "2f51a1905ae2f2081b5340269a19a290e4c88d20"
+          }
+        },
+        {
+          "client_id": "1095974113010-e6i5d3fu0celvu8opjgcgke3jnk1cd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeWbZDFq8VMdjwZn0FwaR_6yVun-JojpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095974113010-e6i5d3fu0celvu8opjgcgke3jnk1cd93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
